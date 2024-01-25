@@ -1,0 +1,36 @@
+.App {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.toolbar {
+  padding: 10px 10px;
+}
+
+.btn {
+  margin-right: 5px;
+  border-radius: 0px;
+  border-width: 1px;
+  padding: 5px 10px;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.projects {
+  width: 100%;
+  columns: 3;
+  column-gap: 5px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  padding: 15px;
+  display: block;
+}
+
+.select {
+  background-color: gray;
+}
